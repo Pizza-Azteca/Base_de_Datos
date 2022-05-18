@@ -27,7 +27,9 @@ Preguntas:
 3. En una BD al usuario del sistema se le brindarán recursos para realizar diversas
 operaciones sobre estos archivos, tales como: (valor 1.5)
 
-
+crear bases de datos
+depurar bases
+modificar bases
 
 4. ¿Qué es un Sistema de Información? (valor 1.5)
 
@@ -69,3 +71,5 @@ constan de un título y una extensión.
 
 ● Para cada revista, almacenaremos información de cada ejemplar, que incluirá la
 fecha, número de páginas y el número de ejemplares vendidos.
+
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/105729934/169089480-db30c9b1-14d1-46a3-8472-fb504c217630.png)
