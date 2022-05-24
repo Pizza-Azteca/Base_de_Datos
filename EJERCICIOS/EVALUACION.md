@@ -74,3 +74,5 @@ fecha, número de páginas y el número de ejemplares vendidos.
 
 
 ![revistas](https://user-images.githubusercontent.com/105729934/169564287-1f0b694d-907c-4059-b990-78fa6b8c5ea6.png)
+
+https://www.db-fiddle.com/f/7pxBEJSEKBxjXBAJWoMMfD/0
