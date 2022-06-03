@@ -77,4 +77,4 @@ Modelo entidad/relación
 
 Base de datos para MySQL
 
-https://www.db-fiddle.com/f/28SMt1m3vi3aWsHovzQP3Q/0
+https://www.db-fiddle.com/f/28SMt1m3vi3aWsHovzQP3Q/2
